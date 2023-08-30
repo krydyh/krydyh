@@ -1,4 +1,8 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krydyh&show_icons=true&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krydyh&layout=compact&theme=merko)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrydyh%2F&count_bg=%233D64C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **krydyh/krydyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
