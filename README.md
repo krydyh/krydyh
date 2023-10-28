@@ -1,4 +1,4 @@
-###  Nice way to meet me
+### 👋 Nice way to meet me
 <p>
   <a href="mailto:kryd_@naver.com" target="_blank"><img src="https://img.shields.io/badge/kryd_@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/영후-박-1570a7275" target="_blank"><img src="https://img.shields.io/badge/YeonghuPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
