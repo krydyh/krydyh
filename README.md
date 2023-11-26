@@ -24,10 +24,12 @@
 
 <div align="center">
   <a href="https://github.com/krydyh">
-    <img align="center" src="https://github-readme-stats-lyart-one-93.vercel.app/api?username=krydyh&show_icons=true&theme=blue-green">
+    <img align="center" src="https://github-readme-stats-rosy-alpha.vercel.app
+/api?username=krydyh&show_icons=true&theme=blue-green">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-lyart-one-93.vercel.app/api/top-langs/?username=krydyh&layout=compact&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats-rosy-alpha.vercel.app
+/api/top-langs/?username=krydyh&layout=compact&theme=tokyonight">
   </a>
 </div>
 
