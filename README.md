@@ -16,19 +16,19 @@
 <img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white">
   
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white">
 </p>
 
 <div align="center">
   <a href="https://github.com/krydyh">
-    <img align="center" src="https://github-readme-stats.vercel.app
+    <img align="center" src="https://github-readme-stats-rosy-alpha.vercel.app
 /api?username=krydyh&show_icons=true&theme=blue-green">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app
+    <img align="center" src="https://github-readme-stats-rosy-alpha.vercel.app
 /api/top-langs/?username=krydyh&layout=compact&theme=tokyonight">
   </a>
 </div>
