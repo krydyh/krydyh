@@ -6,7 +6,7 @@
 </p>
 
 ### 💪 Skills
-#### Languages & Platforms
+#### 💻 Languages & Platforms
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
-#### Tools
+#### 🔧 Tools
 <p>  
 <img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white">
 </p>
 
-#### Hardware
+#### 📱 Hardware
 <p>
 <img src="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=arduino&logoColor=white">
